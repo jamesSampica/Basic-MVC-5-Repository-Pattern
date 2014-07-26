@@ -1,0 +1,14 @@
+c:\users\james\documents\visual studio 2013\Projects\BasicRepositoryPattern\BasicRepositoryPattern.Business\bin\Debug\BasicRepositoryPattern.Business.dll.config
+c:\users\james\documents\visual studio 2013\Projects\BasicRepositoryPattern\BasicRepositoryPattern.Business\bin\Debug\BasicRepositoryPattern.Business.dll
+c:\users\james\documents\visual studio 2013\Projects\BasicRepositoryPattern\BasicRepositoryPattern.Business\bin\Debug\BasicRepositoryPattern.Business.pdb
+c:\users\james\documents\visual studio 2013\Projects\BasicRepositoryPattern\BasicRepositoryPattern.Business\bin\Debug\EntityFramework.dll
+c:\users\james\documents\visual studio 2013\Projects\BasicRepositoryPattern\BasicRepositoryPattern.Business\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\james\documents\visual studio 2013\Projects\BasicRepositoryPattern\BasicRepositoryPattern.Business\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\users\james\documents\visual studio 2013\Projects\BasicRepositoryPattern\BasicRepositoryPattern.Business\bin\Debug\EntityFramework.xml
+c:\users\james\documents\visual studio 2013\Projects\BasicRepositoryPattern\BasicRepositoryPattern.Business\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\james\documents\visual studio 2013\Projects\BasicRepositoryPattern\BasicRepositoryPattern.Business\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\users\james\documents\visual studio 2013\Projects\BasicRepositoryPattern\BasicRepositoryPattern.Business\obj\Debug\BasicRepositoryPattern.Business.dll
+c:\users\james\documents\visual studio 2013\Projects\BasicRepositoryPattern\BasicRepositoryPattern.Business\obj\Debug\BasicRepositoryPattern.Business.pdb
+C:\Users\James\Documents\Visual Studio 2013\Projects\BasicRepositoryPattern\BasicRepositoryPattern.Business\obj\Debug\BasicRepositoryPattern.Business.csprojResolveAssemblyReference.cache
+C:\Users\James\Documents\Visual Studio 2013\Projects\BasicRepositoryPattern\BasicRepositoryPattern.Business\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\James\Documents\Visual Studio 2013\Projects\BasicRepositoryPattern\BasicRepositoryPattern.Business\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
